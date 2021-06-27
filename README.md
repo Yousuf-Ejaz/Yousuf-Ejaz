@@ -8,9 +8,6 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman student at I
 - 💬 Ask me about JavaScript
 
 
-##  My Github Status 👩🏻‍💻
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Ejaz" />
-
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +19,10 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman student at I
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 
+##  My Github Status 👩🏻‍💻
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Ejaz" />
+
+
 <a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yousuf-Ejaz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yousuf's github stats" />
 </a>
@@ -30,14 +31,6 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman student at I
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf-Ejaz&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/Yousuf-Ejaz/Yousuf-Ejaz.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf-Ejaz&repo=Yousuf-Ejaz.github.io&theme=material-palenight" />
-</a>
 
 #### Find My Blogs At:
 https://hashnode.com/@yousufejaz
