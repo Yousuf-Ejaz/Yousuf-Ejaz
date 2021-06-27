@@ -3,8 +3,10 @@
 
 Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman student at Indian Institute of Information Technology, Pune. My major interest lies in open source and web Development. I really look forward to dive deep into the Open Source Community and contribute something useful. The programming languages I am fluent in are C, C++ and JavaScript. I am an avid reader. I also find passion in writing so, I recently started writing technical Blogs on Hashnode.
 
+
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about JavaScript
+
 
 ##  My Github Status 👩🏻‍💻
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Ejaz" />
@@ -19,6 +21,29 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman student at I
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Yousuf-Ejaz/github-readme-stats)*
+
+
+<a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.Yousuf-Ejaz.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Yousuf-Ejaz.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Yousuf-Ejaz.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/Yousuf-Ejaz/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Yousuf-Ejaz.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
+
+#### Find My Blogs At:
+https://hashnode.com/@yousufejaz
 
 #### Any Project you want me a part of ?
 
