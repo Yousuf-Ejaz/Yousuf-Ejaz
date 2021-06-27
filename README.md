@@ -1,11 +1,14 @@
 
 # 👋 Hello World! I am Yousuf Ejaz Ahmad 
 
-Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman student at Indian Institute of Information Technology, Pune. My major interest lies in open source and web Development. I really look forward to dive deep into the Open Source Community and contribute something useful. The programming languages I am fluent in are C, C++ and JavaScript. I am an avid reader. I also find passion in writing so, I recently started writing technical Blogs on Hashnode.
+Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman at Indian Institute of Information Technology, Pune. My major interest lies in open source and web Development. I really look forward to dive deep into the Open Source Community and contribute something useful. The programming languages I am fluent in are C, C++ and JavaScript. I am an avid reader. I also find passion in writing so, I recently started writing technical Blogs on Hashnode.
+
 
 
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about JavaScript
+
+
 
 
 ## My skills 🚀
@@ -25,17 +28,24 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman student at I
 
 
 
+
+
 ##  My Github Status 👩🏻‍💻
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Ejaz" />
+ 
 
 
 <a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yousuf-Ejaz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yousuf's github stats" />
 </a>
+
+
 <a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&layout=compact&theme=material-palenight" />
 </a>
+
+
 
 
 #### Find My Blogs At:
