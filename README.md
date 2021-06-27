@@ -33,16 +33,16 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman student at I
 </a>
 <a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Yousuf-Ejaz.vercel.app/api/top-langs/?username=Yousuf-Ejaz&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Yousuf-Ejaz.vercel.app/api/pin/?username=Yousuf-Ejaz&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf-Ejaz&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/Yousuf-Ejaz/Yousuf-Ejaz.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Yousuf-Ejaz.vercel.app/api/pin/?username=Yousuf-Ejaz&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf-Ejaz&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
 
 #### Find My Blogs At:
