@@ -1,5 +1,6 @@
 
 # 👋 Hello World! I am Yousuf Ejaz Ahmad 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yousuf-Ejaz" alt="Yousuf Ejaz Ahmad" /> </p>
 
 Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman at Indian Institute of Information Technology, Pune. My major interest lies in open source and web Development. I really look forward to dive deep into the Open Source Community and contribute something useful. The programming languages I am fluent in are C, C++ and JavaScript. I am an avid reader. I also find passion in writing so, I recently started writing technical Blogs on Hashnode.
 
