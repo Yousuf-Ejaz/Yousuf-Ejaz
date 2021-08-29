@@ -50,8 +50,9 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a freshman at Indian In
 
 
 #### Find My Blogs At:
-https://hashnode.com/@yousufejaz
-https://dev.to/yousufejazahmad
+- [Dev.to](https://dev.to/yousufejazahmad)
+- [Hashnode](https://hashnode.com/@yousufejaz)
+
 
 #### Any Project you want me a part of ?
 
