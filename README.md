@@ -8,7 +8,7 @@ You can find me here :
   <a href="mailto:ejazahmadyousuf2@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dev.to/yousufejazahmad"><img title="OpenSoft" src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"/></a>  
   
-## About Me
+
 Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a sophomore at Indian Institute of Information Technology, Pune. My major interest lies in open source and web Development. I really look forward to dive deep into the Open Source Community and contribute something useful. The programming languages I am fluent in are C, C++ and JavaScript. I am an avid reader. I also find passion in writing so, I recently started writing technical Blogs on Hashnode.
 
 
@@ -39,21 +39,19 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a sophomore at Indian I
 
 
 ##  My Github Status 👩🏻‍💻
-  ![Yousuf Ejaz Ahmad Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Yousuf-Ejaz&show_icons=true&include_all_commits=true&theme=radical)
-<!--  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-Ejaz" /> -->
  
-
 
 <a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yousuf-Ejaz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yousuf's github stats" />
 </a>
+  
+  <h1 align="left">GitHub Statistics</h1>
 
+[![Yousuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yousuf-Ejaz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&layout=compact&theme=material-palenight" />
+<a href="https://github.com/Yousuf-Ejaz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&theme=tokyonight&layout=compact&" />
 </a>
-
 
 
 
