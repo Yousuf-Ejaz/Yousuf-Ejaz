@@ -23,6 +23,7 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a sophomore at Indian I
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -44,14 +45,13 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a sophomore at Indian I
 <a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yousuf-Ejaz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yousuf's github stats" />
 </a>
-  
-  <h1 align="left">GitHub Statistics</h1>
 
-[![Yousuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yousuf-Ejaz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/Yousuf-Ejaz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&theme=tokyonight&layout=compact&" />
+<a href="https://github.com/Yousuf-Ejaz/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&layout=compact&theme=material-palenight" />
 </a>
+
 
 
 
