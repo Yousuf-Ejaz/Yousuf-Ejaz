@@ -52,7 +52,7 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a sophomore at Indian I
 [![Yousuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yousuf-Ejaz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/Yousuf-Ejaz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&theme=tokyonight&layout=compact&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&theme=radical&layout=compact&" />
 </a>
 
 
