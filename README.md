@@ -7,6 +7,7 @@ You can find me here :
   <a href="https://www.linkedin.com/in/yousuf-ejaz-ahmad-1833881b7/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ejazahmadyousuf2@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dev.to/yousufejazahmad"><img title="OpenSoft" src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"/></a>  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yousuf-Ejaz" alt="Yousuf Ejaz Ahmad" /> </p>
   
 
 Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a sophomore at Indian Institute of Information Technology, Pune. My major interest lies in open source and web Development. I really look forward to dive deep into the Open Source Community and contribute something useful. The programming languages I am fluent in are C, C++ and JavaScript. I am an avid reader. I also find passion in writing so, I recently started writing technical Blogs on Hashnode.
