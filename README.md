@@ -45,6 +45,8 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a sophomore at Indian I
 
 ##  My Github Status 👩🏻‍💻
  ![Yousuf Ejaz Ahmad's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Yousuf-Ejaz&show_icons=true&include_all_commits=true&theme=radical)
+ 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulkhinchi03&theme=radical" />
 
 
   
