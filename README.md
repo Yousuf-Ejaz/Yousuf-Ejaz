@@ -46,13 +46,13 @@ Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a pre-final year studen
 ##  My Github Status 👩🏻‍💻
  ![Yousuf Ejaz Ahmad's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Yousuf-Ejaz&show_icons=true&include_all_commits=true&theme=radical)
  
- ![Yousuf's github Contribution Streaks](https://github-readme-activity-graph.cyclic.app/graph?username=Yousuf-Ejaz&theme=tokyo-night)
+ ![Yousuf's github Contribution Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Rahulkhinchi03&theme=radical)
 
 
   
   <h1 align="left">GitHub Statistics</h1>
 
-[![Yousuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yousuf-Ejaz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yousuf's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yousuf-Ejaz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/Yousuf-Ejaz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Ejaz&theme=radical&layout=compact&" />
