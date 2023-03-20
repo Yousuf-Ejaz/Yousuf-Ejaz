@@ -17,7 +17,7 @@ With my fluency in programming languages such as C, C++, and JavaScript, I have 
 Among my other passions are reading and writing technical blogs on Hashnode. I truly believe that my technical skills, combined with my passion for learning and growing, make me a valuable addition to any project or team. I'm always looking for new challenges and opportunities to expand my skillset, and I'm excited to see where my journey in web development and open source will take me next.
 
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NextJS
 - 💬 Ask me about JavaScript
 
 
