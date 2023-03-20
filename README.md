@@ -12,12 +12,9 @@ You can find me here :
 
 <!-- Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a pre-final year student at Indian Institute of Information Technology, Pune. My major interest lies in open source and web Development. I really look forward to dive deep into the Open Source Community and contribute something useful. The programming languages I am fluent in are C, C++ and JavaScript. I am an avid reader. I also find passion in writing so, I recently started writing technical Blogs on Hashnode.
  -->
- Hi there, Thanks for dropping by! My name is Yousuf Ejaz Ahmad, and I'm a pre-final year student at Indian Institute of Information Technology, Pune. I'm passionate about open source and web development. I have a keen interest in diving deep into the open source community and contributing something valuable.
-
+ Hi there, Thanks for dropping by! My name is Yousuf Ejaz Ahmad, and I'm a pre-final year student at Indian Institute of Information Technology, Pune. I'm passionate about open source and web development. I have a keen interest in diving deep into the open source community and contributing something valuable. 
 With my fluency in programming languages such as C, C++, and JavaScript, I have been able to create some amazing full-stack projects using ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, and Firebase. In addition, I've also created APIs using ExpressJS. I'm always on the lookout for the latest technologies and techniques to help me build better, faster, and more efficient solutions.
-
 One of my other passions is reading. I believe that constant learning is key to staying relevant and up-to-date in any field, and I make sure to set aside time each day to read and learn. Additionally, I enjoy writing technical blogs on Hashnode, which allows me to share my knowledge with others in the community.
-
 I truly believe that my technical skills, combined with my passion for learning and growing, make me a valuable addition to any project or team. I'm always looking for new challenges and opportunities to expand my skillset, and I'm excited to see where my journey in web development and open source will take me next.
 
 
