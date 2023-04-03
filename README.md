@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 You can find me here :
@@ -12,7 +12,7 @@ You can find me here :
 
 <!-- Hi! I am Yousuf Ejaz Ahmad. Thanks for dropping by! I am a pre-final year student at Indian Institute of Information Technology, Pune. My major interest lies in open source and web Development. I really look forward to dive deep into the Open Source Community and contribute something useful. The programming languages I am fluent in are C, C++ and JavaScript. I am an avid reader. I also find passion in writing so, I recently started writing technical Blogs on Hashnode.
  -->
-Hi there, Thanks for dropping by! I'm a pre-final year student at Indian Institute of Information Technology, Pune. I'm passionate about open source and web development.I'm always on the lookout for the latest technologies and techniques to help me build better, faster, and more efficient solutions. I'm excited to see where my journey in web development and open source will take me next.
+Hi there, Thanks for dropping by! I'm a pre-final year student at Indian Institute of Information Technology, Pune. I'm passionate about open source and web development. I'm always on the lookout for the latest technologies and techniques to help me build better, faster, and more efficient solutions. I'm excited to see where my journey in web development and open source will take me next.
 
 
 - 🌱 I’m currently learning NextJS
